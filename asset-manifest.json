@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salimbenfarhat/bug-free-fishstick/static/css/main.fc5c2c69.css",
+    "main.js": "/salimbenfarhat/bug-free-fishstick/static/js/main.9df817c0.js",
+    "index.html": "/salimbenfarhat/bug-free-fishstick/index.html",
+    "main.fc5c2c69.css.map": "/salimbenfarhat/bug-free-fishstick/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "/salimbenfarhat/bug-free-fishstick/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
