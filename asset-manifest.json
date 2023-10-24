@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/bug-free-fishstick/static/js/main.e092e106.js",
+    "main.css": "/bug-free-fishstick/static/css/main.fc5c2c69.css",
+    "main.js": "/bug-free-fishstick/static/js/main.95ea3737.js",
     "index.html": "/bug-free-fishstick/index.html",
-    "main.e092e106.js.map": "/bug-free-fishstick/static/js/main.e092e106.js.map"
+    "main.fc5c2c69.css.map": "/bug-free-fishstick/static/css/main.fc5c2c69.css.map",
+    "main.95ea3737.js.map": "/bug-free-fishstick/static/js/main.95ea3737.js.map"
   },
   "entrypoints": [
-    "static/js/main.e092e106.js"
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.95ea3737.js"
   ]
 }
