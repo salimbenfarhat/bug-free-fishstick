@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/salimbenfarhat/bug-free-fishstick/static/js/main.827a88e8.js",
-    "index.html": "/salimbenfarhat/bug-free-fishstick/index.html",
-    "main.827a88e8.js.map": "/salimbenfarhat/bug-free-fishstick/static/js/main.827a88e8.js.map"
+    "main.js": "/bug-free-fishstick/static/js/main.e092e106.js",
+    "index.html": "/bug-free-fishstick/index.html",
+    "main.e092e106.js.map": "/bug-free-fishstick/static/js/main.e092e106.js.map"
   },
   "entrypoints": [
-    "static/js/main.827a88e8.js"
+    "static/js/main.e092e106.js"
   ]
 }
